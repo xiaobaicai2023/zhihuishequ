@@ -30,7 +30,14 @@ springboot+mybatisplus+mysql 用户端 uniapp（vue语法）管理后台 vue+ele
 ![06](https://github.com/user-attachments/assets/0c9dfe45-3d5c-4c02-945e-d010baab3f31)
 ![07](https://github.com/user-attachments/assets/38ba0a75-56da-4d98-97c3-5e399d224d88)
 ![08](https://github.com/user-attachments/assets/3d81e042-de7b-401e-ad5b-22642b63743a)
-![xiaomage](https://github.com/user-attachments/assets/0dc95210-ffed-46a9-8551-7839114d888b)
+
+
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+![wx](https://github.com/user-attachments/assets/a93906f7-4cac-4c94-bff5-b13939d33664)
+
 
 
 
